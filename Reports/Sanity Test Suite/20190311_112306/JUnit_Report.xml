@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Sanity Test Suite" time="18" tests="1" failures="0" errors="0">
+   <testsuite name="Sanity Test Suite" tests="1" failures="0" errors="0" time="18" timestamp="2019-03-11 11:23:08" hostname="nyijiati - prtm-nyijiati.totalwine.com" id="Test Suites/Sanity Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/nyijiati/Katalon Studio/TWM/Reports/Sanity Test Suite/20190311_112306"/>
+         <property name="logFiles" value="/Users/nyijiati/Katalon Studio/TWM/Reports/Sanity Test Suite/20190311_112306/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nyijiati - prtm-nyijiati.totalwine.com"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="6.0.5.10"/>
+         <property name="browser" value="Chrome 72.0.3626.121"/>
+         <property name="hostAddress" value="10.125.44.74"/>
+         <property name="sessionId" value="2dd85a1a8b056c0f9276b71f1084511a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/firstTest" classname="Test Cases/firstTest" status="PASSED">
+         <system-out><![CDATA[2019-03-11 11:23:08 - [TEST_CASE][PASSED] - Test Cases/firstTest: Test Cases/firstTest
+
+2019-03-11 11:23:08 - [TEST_STEP][PASSED] - openBrowser(Dynamic__url): Browser is opened with url: 'https://www.totalwine.com'
+
+2019-03-11 11:23:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-11 11:23:09 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-03-11 11:23:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.totalwine.com'
+
+2019-03-11 11:23:16 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2019-03-11 11:23:21 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2019-03-11 11:23:21 - [TEST_STEP][PASSED] - click(findTestObject("AgeGate/YesButton")): Object: 'Object Repository/AgeGate/YesButton' is clicked on
+
+2019-03-11 11:23:22 - [MESSAGE][PASSED] - Object: 'Object Repository/AgeGate/YesButton' is clicked on
+
+2019-03-11 11:23:22 - [TEST_STEP][PASSED] - delay(Default_wait_time): Delayed 4 second(s)
+
+2019-03-11 11:23:26 - [MESSAGE][PASSED] - Delayed 4 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-03-11 11:23:08 - [TEST_SUITE][PASSED] - Sanity Test Suite: Test Cases/firstTest]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

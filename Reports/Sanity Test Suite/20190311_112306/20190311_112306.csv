@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sanity Test Suite,Chrome 72.0.3626.121,,2019-03-11 11:23:08,2019-03-11 11:23:26,18.065s,PASSED
+,,,,,,
+Test Cases/firstTest,Chrome 72.0.3626.121,,2019-03-11 11:23:08,2019-03-11 11:23:26,17.671s,PASSED
+openBrowser(Dynamic__url),Chrome 72.0.3626.121,,2019-03-11 11:23:08,2019-03-11 11:23:16,8.178s,PASSED
+delay(5),Chrome 72.0.3626.121,,2019-03-11 11:23:16,2019-03-11 11:23:21,5.028s,PASSED
+"click(findTestObject(""AgeGate/YesButton""))",Chrome 72.0.3626.121,,2019-03-11 11:23:21,2019-03-11 11:23:22,0.136s,PASSED
+delay(Default_wait_time),Chrome 72.0.3626.121,,2019-03-11 11:23:22,2019-03-11 11:23:26,4.004s,PASSED

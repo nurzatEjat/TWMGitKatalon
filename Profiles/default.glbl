@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>This is for Dynamic url for different environment</description>
+      <initValue>'https://www.totalwine.com'</initValue>
+      <name>Dynamic_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>4</initValue>
+      <name>Default_wait_time</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>It is for user name only</description>
+      <initValue>'checkout1@totalwine.com'</initValue>
+      <name>Checkout_user_1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Welcome@123'</initValue>
+      <name>Password_forCheckout_user</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
